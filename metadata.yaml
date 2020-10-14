@@ -1,0 +1,40 @@
+_repo: The-Glebe-191409-Vol-2-No-2-Poems_63399
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cronyn, George W.
+    gutenberg_agent_id: '52420'
+    url: http://www.gutenberg.org/2009/agents/52420
+  editors:
+  - agent_name: Man Ray
+    aliases:
+    - Radnitzky, Emmanuel
+    - Radenski, Emmanuel
+    - Rudnitzky, Emmanuel
+    - Ray, Man
+    - Rudnizky, Emmanuel
+    - Rudnitsky, Emmanuel
+    birthdate: 1890
+    deathdate: 1976
+    gutenberg_agent_id: '51051'
+    url: http://www.gutenberg.org/2009/agents/51051
+    wikipedia: https://en.wikipedia.org/wiki/Man_Ray
+  - agent_name: Kreymborg, Alfred
+    birthdate: 1883
+    deathdate: 1966
+    gutenberg_agent_id: '35239'
+    url: http://www.gutenberg.org/2009/agents/35239
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Kreymborg
+description: ''
+gutenberg_issued: '2020-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63399'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Glebe 1914/09 (Vol. 2, No. 2): Poems'
+url: http://www.gutenberg.org/ebooks/63399
